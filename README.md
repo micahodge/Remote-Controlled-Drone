@@ -17,4 +17,18 @@ This drone is controlled by my laptop through a Bluetooth chip on the drone. Thi
 - <b>9V Battery with pack</b>
 - <b>3S LiPo battery for motors</b>
 - <b>4 5-inch propellers</b>
-- <b>breadboard</b>
+- <b>Breadboard</b>
+
+<h2>Drone Photos</h2>
+
+<p align="center">
+Top View: <br/>
+<img src="https://i.imgur.com/B4L6WbE.jpeg" height="50%" width="50%"/>
+<br />
+<br />
+Side View:  <br/>
+<img src="https://i.imgur.com/pQ1IV2c.jpeg" height="50%" width="50%"/>
+<br />
+<br />
+Bottom Section View: <br/>
+<img src="https://i.imgur.com/gB4CAdg.jpeg" height="50%" width="50%"/>
