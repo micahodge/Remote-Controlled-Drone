@@ -8,7 +8,13 @@ This drone is controlled by my laptop through a Bluetooth chip on the drone. Thi
 <h2>Sensors and Electronics Used</h2>
 
 - <b>Arduino Mega 2560</b> 
-- <b>2 L298N motor controllers</b>
-- <b>Ultrasonic Sensor</b>
-- <b>Stepper Motor</b>
-- <b>Microswitch</b>
+- <b>4-in-1 ESC board</b>
+- <b>4 brushless motors (each with 440 grams of thrust)</b>
+- <b>Soldered wires</b>
+- <b>Microsoft Studio</b>
+- <b>HC-05 Bluetooth chip</b>
+- <b>BNO055 Gyroscope</b>
+- <b>9V Battery with pack</b>
+- <b>3S LiPo battery for motors</b>
+- <b>4 5-inch propellers</b>
+- <b>breadboard</b>
